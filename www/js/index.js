@@ -18,7 +18,7 @@ var app = {
             listeningElement.setAttribute('style', 'display:none;');
             receivedElement.setAttribute('style', 'display:block;');
 
-            window.location = "https://socservice.kyivcity.gov.ua/";
+			window.location = "app/index.html";
 
         } else {
             listeningElement.setAttribute('style', 'display:none;');
